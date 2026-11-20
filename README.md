@@ -1,5 +1,12 @@
 
+
+
 <div align="center">
+  <img src="pict.jpeg" width="100%" alt="Ankush Singh GitHub Banner"/>
+</div>
+
+<br/>
+
 
 # 👋 Hey, I'm Ankush Singh
 
