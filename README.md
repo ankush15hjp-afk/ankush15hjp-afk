@@ -1,8 +1,8 @@
-
+-
 
 
 <div align="center">
-  <img src="pict.jpeg" width="100%" alt="Ankush Singh GitHub Banner"/>
+  <img src="Ankush Singh Developer Banner.png" width="100%" alt="Ankush Singh GitHub Banner"/>
 </div>
 
 <br/>
